@@ -1,6 +1,6 @@
 import './App.css'
 import { Container } from 'react-bootstrap'
-import { Route, Routes } from 'react-router-dom'
+import { Link, Route, Routes } from 'react-router-dom'
 import { About } from './components/About'
 import { Home } from './components/Home'
 import { NavigationBar } from './components/NavigationBar'
