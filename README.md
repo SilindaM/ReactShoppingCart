@@ -15,13 +15,13 @@ This simple shopping cart prototype shows how React with Typescript, React hooks
   <img src="assets/Screenshot (3).png">
 </p>
 
-# Show Items in the shopping cart and total price
+### Show Items in the shopping cart and total price
 
 <p align="center">
 
   <img src="assets/Screenshot (4).png">
 </p>
-# Responsive design
+### Responsive design
 - <p align="center">
 
   <img src="assets/Screenshot (6).png">
