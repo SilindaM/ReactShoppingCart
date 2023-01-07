@@ -21,8 +21,10 @@ This simple shopping cart prototype shows how React with Typescript, React hooks
 
   <img src="assets/Screenshot (4).png">
 </p>
+
 ### Responsive design
-- <p align="center">
+
+<p align="center">
 
   <img src="assets/Screenshot (6).png">
 </p>
