@@ -1,9 +1,8 @@
 # ShoppingCart
-## 🛍️ Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
 
 <p align="center">
 
-  <img src="assets/![Screenshot (1)](https://user-images.githubusercontent.com/36817306/211161794-fcb38ac1-4556-49c5-bddd-d3b7d7dfbc53.png)">
+  <img src="assets/Screenshot (1).png">
 </p>
 
 ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
