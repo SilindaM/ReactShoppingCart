@@ -1,11 +1,10 @@
-# ShoppingCart
+# React Shopping Cart
 
 <p align="center">
 
   <img src="assets/Screenshot (1).png">
 </p>
 
-## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
 <p align="left">
 
